@@ -1,1 +1,1 @@
-# Mobile_App_Development
+The CountDown Appwas built in Android Studio using Java
