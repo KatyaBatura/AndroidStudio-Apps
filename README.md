@@ -1,1 +1,1 @@
-The CountDown Appwas built in Android Studio using Java
+The CountDown App was built in Android Studio using Java
